@@ -21,3 +21,8 @@ title {
     border: 3px solid #000;
     margin-top: 15px;
 }
+
+.post_a {
+    background: #505050;
+    color: darkblue;
+}
