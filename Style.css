@@ -1,5 +1,7 @@
 body {
     background: #ccc;
+    border: 2px #505050;
+    border-radius: 5px;
 }
 
 #title, .subtitle, .post_title {
@@ -23,6 +25,7 @@ title {
 }
 
 .post_a {
-    background: #505050;
+    background: wheat;
     color: darkblue;
+    margin-top: 15px;
 }
